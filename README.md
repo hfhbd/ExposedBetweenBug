@@ -1,5 +1,5 @@
 # ExposedBetweenBug
-
+https://github.com/JetBrains/Exposed/issues/1096
 
 Using
 ```kotlin
